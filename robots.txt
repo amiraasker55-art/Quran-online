@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://earnest-dusk-7998cf.netlify.app/sitemap.xml
